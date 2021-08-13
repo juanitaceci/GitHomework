@@ -10,9 +10,12 @@ public class FirstGitHW {
 			System.out.print(i + " ");
 		}
 
+		System.out.println();
 		System.out.println("-------- Integers 1-100 --------");
 		
-		
+		for(int j=0; j<=100; j++) {
+			System.out.println(j);
+		}
 	
 	
 	
