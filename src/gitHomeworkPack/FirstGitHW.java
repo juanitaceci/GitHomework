@@ -17,9 +17,11 @@ public class FirstGitHW {
 			System.out.println(j);
 		}
 	
-	System.out.println("--------- Making the 3rd change ------");
+	System.out.println("--------- Odd numbers ------");
 	
-	
+	for(int i=1; i<=100; i+=2) {
+			System.out.println(i+" ");
+	}
 	
 	
 	}
